@@ -1,0 +1,99 @@
+{
+    "company": "TechStore",
+    "year": 2025,
+    "regions": [
+        {
+            "name": "North",
+            "manager": "Ana Petrovic",
+            "quarters": [
+                {
+                    "q": 1,
+                    "revenue": 45000,
+                    "units": 320
+                },
+                {
+                    "q": 2,
+                    "revenue": 52000,
+                    "units": 410
+                },
+                {
+                    "q": 3,
+                    "revenue": 48000,
+                    "units": 375
+                },
+                {
+                    "q": 4,
+                    "revenue": 61000,
+                    "units": 490
+                }
+            ],
+            "top_products": [
+                "Laptop Pro",
+                "Wireless Mouse",
+                "USB Hub"
+            ]
+        },
+        {
+            "name": "South",
+            "manager": "Marko Jovic",
+            "quarters": [
+                {
+                    "q": 1,
+                    "revenue": 38000,
+                    "units": 280
+                },
+                {
+                    "q": 2,
+                    "revenue": 41000,
+                    "units": 310
+                },
+                {
+                    "q": 3,
+                    "revenue": 44000,
+                    "units": 340
+                },
+                {
+                    "q": 4,
+                    "revenue": 53000,
+                    "units": 420
+                }
+            ],
+            "top_products": [
+                "Monitor 4K",
+                "Keyboard",
+                "Laptop Pro"
+            ]
+        }
+    ],
+    "products": {
+        "Laptop Pro": {
+            "price": 1200,
+            "category": "Computers",
+            "stock": 85
+        },
+        "Monitor 4K": {
+            "price": 450,
+            "category": "Displays",
+            "stock": 120
+        },
+        "Wireless Mouse": {
+            "price": 35,
+            "category": "Accessories",
+            "stock": 300
+        },
+        "Keyboard": {
+            "price": 75,
+            "category": "Accessories",
+            "stock": 210
+        },
+        "USB Hub": {
+            "price": 25,
+            "category": "Accessories",
+            "stock": 450
+        }
+    },
+    "targets": {
+        "annual_revenue": 500000,
+        "units_sold": 5000
+    }
+}
