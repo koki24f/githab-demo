@@ -79,4 +79,5 @@ with Session(engine) as session:
     users_delete = delete(Users).where(Users.id == user_id)
     print(users_delete)
     result = session.execute(users_delete)
-    session.commit()             
+    session.commit()     
+    print ("nova poraka")
