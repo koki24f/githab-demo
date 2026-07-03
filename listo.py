@@ -75,13 +75,13 @@
 # lista.clear() # gi brishe site elementi vo listata a listata si postoi
 # print (lista)
 
-# lista_broevi=(1,2,3,4,5)
-# for broj in lista_broevi:
-#     dupliran_broj = broj *2
-#     if dupliran_broj %2 ==0:
-#         print(f"brojot {broj}  brojot pomnozen so 2 e paren")
-#     else:
-#         print(f"brojot {broj} e  brojot pomnozen so 2 eneparen")
+lista_broevi=(1,2,3,4,5)
+for broj in lista_broevi:
+    dupliran_broj = broj *2
+    if dupliran_broj %2 ==0:
+        print(f"brojot {broj}  brojot pomnozen so 2 e paren")
+    else:
+        print(f"brojot {broj} e  brojot pomnozen so 2 eneparen")
 
 #zadacha 1
 # lista =[]
@@ -93,19 +93,19 @@
 # print (f"listata e {lista}")
 
 # #zadacha 2
-parni=[]
-neparni =[]
+# parni=[]
+# neparni =[]
 
-for brojach in range (10):
-  broj=int(input("vnesi broj {brojach}: "))
-  if broj %2==0:
-    parni.append(broj)
-    print (f"brojot e paren") 
-  else:
-    neparni.append(broj)   
-    print("brojot e neparen")
-print(f"parni broevi {parni}")
-print (f"neparni broevi {neparni}")
+# for brojach in range (10):
+#   broj=int(input("vnesi broj {brojach}: "))
+#   if broj %2==0:
+#     parni.append(broj)
+#     print (f"brojot e paren") 
+#   else:
+#     neparni.append(broj)   
+#     print("brojot e neparen")
+# print(f"parni broevi {parni}")
+# print (f"neparni broevi {neparni}")
 
 # zadacha 3
 # oceni=[]

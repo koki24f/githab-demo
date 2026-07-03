@@ -3,7 +3,9 @@ print(x_tuple)
 print(x_tuple[4])
 print(x_tuple[-1])
 print(x_tuple[2:5])
-for brojach x_tuple:
+
+for brojach  in x_tuple:
+
     print(x_tuple)
 
 #tuple- se koristi kade shto ne smeat da se menuvaat podatoci ne moze da se promenuva
