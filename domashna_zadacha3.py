@@ -75,26 +75,58 @@
 # Задача 7: Напиши програма која прашува од корисникот да внесе реченица и креирај функција која
 # го пресметува бројот на појавувања на секоја буква во реченицата. Игнорирај големината на буквите.
 
-def broi_bukvi(rechenica: str):
-    rechenica = rechenica.lower()
-    bukvi = {}
+# def broi_bukvi(rechenica: str):
+#     rechenica = rechenica.lower()
+#     bukvi = {}
 
-    for bukva in rechenica:
-        if bukva .isalpha():  
-            if bukva  in bukvi:
-                bukvi[bukva] += 1
-            else:
-                bukvi[bukva] = 1
+#     for bukva in rechenica:
+#         if bukva .isalpha():  
+#             if bukva  in bukvi:
+#                 bukvi[bukva] += 1
+#             else:
+#                 bukvi[bukva] = 1
 
-    return bukvi
-
-
-tekst = input("Vnesi rechenica: ")
-
-rezultat = broi_bukvi(tekst)
-
-for bukva, broj in rezultat.items():
-    print(f"{bukva}: {broj}")
+#     return bukvi
 
 
+# tekst = input("Vnesi rechenica: ")
 
+# rezultat = broi_bukvi(tekst)
+
+# for bukva, broj in rezultat.items():
+#     print(f"{bukva}: {broj}")
+
+
+# Задача 8: Напиши програма која прашува од корисникот да внесе низа од броеви сè додека
+# не внесе негативен број. креирај функција која ќе го спечати го збирот на позитивните 
+# броеви што биле внесени.
+
+# def pecati_zbir(zbir):
+#     print(f"zbirot na pozitivni broevi e {zbir} ")
+
+# zbir = 0
+
+# while True:
+#     broj = int(input("vnesi broj (negativen za kraj): "))
+
+#     if broj < 0:
+#         break
+
+#     zbir += broj
+
+# pecati_zbir(zbir)
+
+# БОНУС: Напиши програма која генерира листа со случајни броеви помеѓу 1 и 100. 
+# Испечати го најголемиот број во листата
+
+import random
+lista = []
+
+for i in range(10):
+    broj = random.randint(1, 100)
+    lista.append(broj)
+
+print("lista:", lista)
+najgolem = max(lista)
+
+print("najgolemiot e :", najgolem)
