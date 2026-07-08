@@ -1,21 +1,21 @@
 #index=value
 
-x_dic={
-    "ime":"stojan",
-    "prezime":"Stojanov",
-    "pol":"mashki",
-    "email":["mail1@example.com","mail2@example.com"],
-    "tel_broj":{
-        "pribaten":"07000000",
-        "sluzben":"07800000",
-    }
-}
-print(x_dic["ime"])
-print(f"{x_dic["ime"]},{x_dic['prezime']},{x_dic["pol"]}")
-print(x_dic["tel_broj"])
-print(x_dic["email"][0])
+# x_dic={
+#     "ime":"stojan",
+#     "prezime":"Stojanov",
+#     "pol":"mashki",
+#     "email":["mail1@example.com","mail2@example.com"],
+#     "tel_broj":{
+#         "pribaten":"07000000",
+#         "sluzben":"07800000",
+#     }
+# }
+# print(x_dic["ime"])
+# print(f"{x_dic["ime"]},{x_dic['prezime']},{x_dic["pol"]}")
+# print(x_dic["tel_broj"])
+# print(x_dic["email"][0])
       
-print(type(x_dic["email"]))
+# print(type(x_dic["email"]))
 
 #x_dic["grad"]="skopje" # da dodademe eden element
 #x_dic.update({"grad":"skopje","prezime":"Jovanov"})
@@ -25,19 +25,19 @@ print(type(x_dic["email"]))
 # del x_dic
 
 
-for index in x_dic.keys():
-    print(x_dic[index])
+# for index in x_dic.keys():
+#     print(x_dic[index])
       
       
-for value in x_dic.values():  
-    print(value)
+# for value in x_dic.values():  
+#     print(value)
   
 
-for index, value in x_dic.items():
-    print("------------------")
-    print(index)
-    print(value)
-    print ('---------')
+# for index, value in x_dic.items():
+#     print("------------------")
+#     print(index)
+#     print(value)
+#     print ('---------')
 
 
 # korisnik = {
