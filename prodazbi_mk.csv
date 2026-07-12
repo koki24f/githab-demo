@@ -1,0 +1,101 @@
+id,ime,prezime,grad,kategorija,produkt,kolicina,cena_denari,popust_procent,vkupno_denari,datum,status,nacin_plakanje,vraboten,ocena
+1,Ivana,Angelov,Bitola,Sport,Torba,4,1271.73,10,4578.23,2024-09-07,Zavrsena,Rati,True,1
+2,Emilija,Jovanov,Gostivar,Elektronika,Tastatura,7,10584.84,20,59275.1,2024-01-28,Vraceno,Kartichka,False,5
+3,Filip,Dimitrov,Ohrid,Obleka,Jakna,1,34182.51,5,32473.38,2025-03-08,Otkazana,Kesh,True,4
+4,Ana,Andonov,Kocani,Elektronika,Laptop,12,38160.12,20,366337.15,2024-09-27,Vraceno,Kesh,False,5
+5,Ana,Mladenova,Prilep,Igracki,Kocki,12,26044.24,25,234398.16,2024-03-12,Vo tek,Kesh,False,3
+6,Dejan,Ristov,Strumica,Nameshtaj,Masa,12,7445.04,10,80406.43,2024-08-02,Vo tek,Kartichka,False,4
+7,Ivana,Stojanova,Tetovo,Obleka,Chevli,18,9999.74,10,161995.79,2024-02-27,Otkazana,Kesh,True,5
+8,Viktor,Angelov,Prilep,Sport,Reket,11,9686.3,15,90566.9,2025-02-09,Vo tek,Transfer,False,5
+9,Kristina,Ristov,Skopje,Nameshtaj,Stol,12,9986.54,5,113846.56,2025-06-05,Vo tek,Kartichka,False,5
+10,Emilija,Petrov,Gostivar,Elektronika,Laptop,13,17265.62,15,190785.1,2024-09-14,Otkazana,Transfer,True,3
+11,Goran,Trajkova,Kocani,Nameshtaj,Stol,6,20499.51,25,92247.79,2024-09-26,Otkazana,Kartichka,True,3
+12,Natasha,Stankov,Stip,Igracki,Kocki,6,24341.15,20,116837.52,2024-01-01,Zavrsena,Transfer,False,2
+13,Kristina,Ristov,Kocani,Elektronika,Telefon,8,39528.73,0,316229.84,2024-03-28,Vo tek,Rati,True,3
+14,Sara,Kostov,Gostivar,Kancelariski,Papka,20,19127.74,5,363427.06,2024-07-24,Vraceno,Rati,True,2
+15,Damjan,Mladenova,Skopje,Hrana,Kafe,3,15313.14,20,36751.54,2024-08-23,Zavrsena,Kartichka,True,1
+16,Kristina,Jovanov,Kocani,Igracki,Kukla,11,3327.95,5,34777.08,2024-10-12,Vraceno,Kartichka,False,4
+17,Angela,Pavlova,Stip,Hrana,Kafe,4,4497.35,15,15290.99,2024-12-28,Zavrsena,Kesh,False,3
+18,Nikola,Pavlova,Ohrid,Igracki,Avion,4,11302.24,5,42948.51,2025-04-04,Vraceno,Kartichka,True,4
+19,Petar,Mladenova,Ohrid,Igracki,Pucel,18,4541.21,25,61306.33,2024-01-16,Vraceno,Rati,True,4
+20,Viktor,Georgieva,Veles,Elektronika,Tastatura,6,17146.94,15,87449.39,2024-09-28,Vraceno,Kartichka,True,3
+21,Filip,Stojanova,Skopje,Hrana,Sirenje,2,26126.24,20,41801.98,2024-03-03,Vraceno,Kartichka,True,5
+22,Bojan,Nikolova,Strumica,Elektronika,Telefon,6,3223.18,0,19339.08,2024-08-28,Zavrsena,Kesh,False,5
+23,Filip,Mladenova,Prilep,Kancelariski,Marker,17,14339.19,10,219389.61,2024-07-28,Vo tek,Transfer,False,3
+24,Petar,Jovanov,Kocani,Igracki,Avion,3,567.8,20,1362.72,2024-04-12,Vo tek,Transfer,True,2
+25,Natasha,Petrov,Gostivar,Obleka,Kapa,10,7224.95,20,57799.6,2024-11-05,Otkazana,Kesh,True,3
+26,Sara,Jovanov,Tetovo,Elektronika,Telefon,4,33447.39,5,127100.08,2024-10-05,Otkazana,Rati,False,1
+27,Filip,Angelov,Gostivar,Elektronika,Slushalki,14,37346.26,0,522847.64,2024-01-04,Vo tek,Rati,False,5
+28,Emilija,Stojanova,Tetovo,Elektronika,Tastatura,4,3524.69,25,10574.07,2024-06-01,Vo tek,Rati,True,1
+29,Stefan,Mladenova,Gostivar,Obleka,Maica,12,40469.32,0,485631.84,2025-01-01,Otkazana,Rati,True,2
+30,Marko,Trajkova,Tetovo,Igracki,Pucel,6,43932.84,5,250417.19,2025-02-26,Vo tek,Transfer,True,1
+31,Viktor,Ilieva,Prilep,Nameshtaj,Masa,2,38657.91,5,73450.03,2024-07-23,Vo tek,Kesh,True,4
+32,Goran,Kostov,Gostivar,Obleka,Kapa,9,38916.23,10,315221.46,2024-12-25,Otkazana,Kesh,True,3
+33,Elena,Pavlova,Tetovo,Hrana,Testenini,19,43319.66,10,740766.19,2024-02-09,Vraceno,Kesh,False,5
+34,Goran,Jovanov,Tetovo,Hrana,Maslo,9,2140.74,15,16376.66,2024-01-02,Zavrsena,Transfer,False,1
+35,Filip,Kostov,Prilep,Sport,Torba,10,22894.44,25,171708.3,2025-02-22,Vo tek,Kartichka,False,4
+36,Emilija,Petrov,Prilep,Sport,Dres,6,27755.84,10,149881.54,2025-02-19,Vo tek,Rati,False,4
+37,Marija,Ristov,Prilep,Nameshtaj,Fotelja,15,30451.88,20,365422.56,2025-04-29,Otkazana,Kesh,True,3
+38,Kristina,Ristov,Stip,Hrana,Maslo,7,6758.83,0,47311.81,2024-09-07,Vo tek,Rati,False,4
+39,Angela,Mladenova,Ohrid,Hrana,Sirenje,5,29574.2,0,147871.0,2024-04-19,Vraceno,Kesh,True,1
+40,Viktor,Pavlova,Kocani,Nameshtaj,Polica,5,36093.53,25,135350.74,2024-11-20,Vo tek,Rati,False,3
+41,Kristina,Mladenova,Prilep,Igracki,Pucel,8,37817.85,10,272288.52,2025-06-17,Zavrsena,Transfer,True,3
+42,Nikola,Mladenova,Veles,Obleka,Jakna,11,40202.25,0,442224.75,2024-05-21,Vo tek,Kesh,False,4
+43,Angela,Kostov,Strumica,Obleka,Maica,18,21046.71,0,378840.78,2024-07-30,Vraceno,Rati,True,3
+44,Kristina,Mladenova,Prilep,Obleka,Chevli,13,38427.14,15,424619.9,2024-08-13,Vraceno,Kesh,False,3
+45,Natasha,Petrov,Veles,Sport,Torba,13,32629.53,15,360556.31,2024-05-10,Zavrsena,Kesh,False,2
+46,Filip,Jovanov,Stip,Igracki,Avion,15,8300.55,10,112057.42,2025-01-23,Otkazana,Rati,False,4
+47,Teodora,Mladenova,Gostivar,Obleka,Maica,3,21243.26,25,47797.33,2024-02-23,Zavrsena,Kesh,True,2
+48,Kristina,Nikolova,Strumica,Igracki,Kukla,1,28016.9,5,26616.06,2024-05-09,Vraceno,Transfer,False,2
+49,Marija,Georgieva,Bitola,Kancelariski,Kalkulator,20,43373.5,25,650602.5,2024-04-27,Zavrsena,Transfer,False,4
+50,Elena,Georgieva,Gostivar,Sport,Torba,7,3558.44,25,18681.81,2024-09-05,Zavrsena,Kesh,False,5
+51,Marko,Pavlova,Stip,Nameshtaj,Stol,12,3242.71,25,29184.39,2024-12-15,Vraceno,Transfer,False,2
+52,Natasha,Mitreva,Stip,Nameshtaj,Polica,6,33060.72,25,148773.24,2024-10-03,Otkazana,Transfer,True,1
+53,Filip,Petrov,Stip,Obleka,Pantaloni,15,11087.28,15,141362.82,2025-01-23,Vo tek,Rati,True,3
+54,Emilija,Petrov,Kocani,Igracki,Kukla,9,15414.2,20,110982.24,2024-10-09,Zavrsena,Kartichka,False,4
+55,Viktor,Petrov,Bitola,Kancelariski,Papka,8,31123.83,25,186742.98,2025-05-17,Vo tek,Rati,True,3
+56,Angela,Stankov,Tetovo,Sport,Chizmi,19,16700.57,20,253848.66,2024-12-18,Otkazana,Transfer,False,2
+57,Stefan,Jovanov,Stip,Elektronika,Slushalki,7,14302.33,25,75087.23,2024-07-08,Otkazana,Kesh,True,3
+58,Dejan,Stojanova,Skopje,Hrana,Sirenje,12,8197.95,0,98375.4,2024-05-09,Otkazana,Kartichka,False,1
+59,Viktor,Stankov,Ohrid,Igracki,Kocki,1,25896.78,15,22012.26,2025-05-05,Otkazana,Rati,True,1
+60,Nikola,Angelov,Strumica,Nameshtaj,Krevet,16,3472.59,25,41671.08,2024-02-24,Zavrsena,Kartichka,True,5
+61,Goran,Kostov,Stip,Igracki,Pucel,14,27343.35,20,306245.52,2024-08-19,Otkazana,Rati,False,5
+62,Stefan,Jovanov,Prilep,Kancelariski,Tetratka,2,27491.95,25,41237.93,2024-04-11,Vo tek,Kartichka,True,5
+63,Sara,Stojanova,Kumanovo,Elektronika,Slushalki,6,270.01,15,1377.05,2025-04-26,Otkazana,Rati,True,2
+64,Elena,Mladenova,Gostivar,Obleka,Jakna,19,29804.06,5,537963.28,2025-03-11,Otkazana,Kartichka,True,1
+65,Viktor,Nikolova,Stip,Hrana,Testenini,10,26837.73,20,214701.84,2024-10-22,Vraceno,Transfer,False,4
+66,Natasha,Dimitrov,Skopje,Elektronika,Laptop,20,1937.76,15,32941.92,2024-11-26,Vo tek,Kesh,False,5
+67,Dejan,Trajkova,Strumica,Elektronika,Monitor,6,21251.96,25,95633.82,2025-03-28,Vraceno,Kesh,False,3
+68,Filip,Pavlova,Stip,Nameshtaj,Krevet,11,14549.46,0,160044.06,2024-06-13,Vraceno,Kesh,False,1
+69,Marko,Andonov,Veles,Obleka,Maica,9,14648.83,15,112063.55,2025-06-10,Vo tek,Transfer,False,4
+70,Sara,Andonov,Stip,Igracki,Kocki,2,9279.59,20,14847.34,2024-05-14,Zavrsena,Kartichka,True,3
+71,Elena,Andonov,Bitola,Kancelariski,Penkalo,1,24918.48,0,24918.48,2024-08-18,Vraceno,Transfer,False,4
+72,Emilija,Angelov,Veles,Igracki,Kukla,16,44113.97,5,670532.34,2025-04-12,Vo tek,Kesh,False,4
+73,Sara,Mitreva,Ohrid,Obleka,Chevli,17,12132.69,0,206255.73,2024-10-16,Vraceno,Transfer,False,5
+74,Ivana,Kostov,Kumanovo,Igracki,Pucel,18,17067.87,10,276499.49,2024-07-12,Zavrsena,Transfer,False,4
+75,Goran,Stankov,Bitola,Nameshtaj,Polica,5,22365.49,0,111827.45,2024-05-09,Zavrsena,Rati,True,2
+76,Natasha,Kostov,Gostivar,Nameshtaj,Stol,5,3506.05,10,15777.23,2024-12-12,Otkazana,Rati,False,4
+77,Sara,Mladenova,Bitola,Igracki,Pucel,18,1760.07,0,31681.26,2024-08-28,Zavrsena,Kesh,False,2
+78,Ana,Georgieva,Tetovo,Sport,Dres,10,40668.57,0,406685.7,2024-11-28,Vraceno,Kartichka,True,5
+79,Marija,Ristov,Strumica,Nameshtaj,Polica,19,30728.75,5,554653.94,2024-06-23,Vo tek,Rati,True,2
+80,Viktor,Georgieva,Gostivar,Nameshtaj,Fotelja,9,20761.74,25,140141.74,2024-01-10,Vo tek,Kesh,False,3
+81,Viktor,Georgieva,Kumanovo,Kancelariski,Marker,10,28806.4,15,244854.4,2024-09-13,Vraceno,Kesh,True,4
+82,Marko,Kostov,Prilep,Kancelariski,Tetratka,12,25930.32,25,233372.88,2024-10-29,Zavrsena,Rati,False,2
+83,Nikola,Nikolova,Gostivar,Kancelariski,Tetratka,12,9972.35,5,113684.79,2024-09-13,Otkazana,Rati,True,5
+84,Angela,Trajkova,Kumanovo,Obleka,Jakna,5,4192.48,10,18866.16,2024-11-30,Otkazana,Transfer,True,3
+85,Elena,Andonov,Bitola,Igracki,Kukla,16,43537.18,10,626935.39,2024-12-12,Vo tek,Rati,False,1
+86,Viktor,Ilieva,Gostivar,Igracki,Avion,13,774.25,20,8052.2,2024-05-06,Vraceno,Transfer,True,2
+87,Natasha,Mladenova,Gostivar,Nameshtaj,Stol,1,27936.68,20,22349.34,2024-12-01,Vraceno,Transfer,False,1
+88,Elena,Nikolova,Kumanovo,Hrana,Sirenje,2,42589.83,10,76661.69,2025-05-19,Vo tek,Rati,False,3
+89,Angela,Nikolova,Stip,Sport,Torba,18,18947.83,25,255795.71,2024-06-07,Vraceno,Transfer,True,3
+90,Elena,Ilieva,Kocani,Hrana,Testenini,15,20094.61,5,286348.19,2025-01-06,Zavrsena,Rati,False,2
+91,Ana,Stankov,Kumanovo,Elektronika,Telefon,15,4261.55,5,60727.09,2024-01-22,Vo tek,Kesh,True,5
+92,Dejan,Angelov,Ohrid,Hrana,Sirenje,8,14885.9,5,113132.84,2024-01-03,Otkazana,Kartichka,True,1
+93,Marko,Trajkova,Prilep,Hrana,Kafe,1,16217.17,5,15406.31,2024-11-27,Vo tek,Rati,True,1
+94,Viktor,Mladenova,Strumica,Nameshtaj,Stol,15,35044.06,20,420528.72,2024-04-21,Otkazana,Rati,True,1
+95,Viktor,Ristov,Bitola,Nameshtaj,Krevet,13,19268.37,0,250488.81,2025-05-17,Vo tek,Kesh,True,3
+96,Natasha,Georgieva,Stip,Kancelariski,Kalkulator,19,24743.79,10,423118.81,2025-01-25,Vraceno,Kesh,True,5
+97,Filip,Andonov,Veles,Sport,Chizmi,7,19438.64,5,129266.96,2025-02-27,Zavrsena,Transfer,False,3
+98,Petar,Ristov,Bitola,Sport,Topka,9,16937.4,5,144814.77,2025-04-30,Vraceno,Kesh,False,2
+99,Elena,Pavlova,Tetovo,Kancelariski,Marker,2,26452.96,20,42324.74,2024-12-03,Zavrsena,Transfer,False,3
+100,Ivana,Nikolova,Tetovo,Elektronika,Tastatura,19,22907.45,5,413479.47,2025-05-08,Otkazana,Kesh,False,5

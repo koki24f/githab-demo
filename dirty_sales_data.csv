@@ -1,0 +1,93 @@
+SalesID,ClientID,ClientName,Email,Phone,Address,City,Country,OrderDate,Item,Quantity,Price,Total
+377fea67-c907-4949-84d2-d51fe2df9604,InvalidID,Thomas Duran,charris@example.com,InvalidPhone,"454 Stacey Ford
+Port Robin, CT 26176",South Sandraborough,China,InvalidDate,ok,,-1.0,
+83055e89-d654-4206-9cff-f8d9f7132862,,Mrs. Catherine Ali,,,,Brittanyborough,Korea,2024-05-27,month,,,
+74a6d7a0-1fb0-47a9-8dfb-b2f88d4a0b02,05d165b2-ca98-481d-b5de-b113d7e96862,Mark Bailey,,,,,Sierra Leone,2024-03-19,machine,1.0,140.32,140.32
+fe4ae130-b943-4581-a0c3-02abe07d3edd,,Linda Patel,jessicarichmond@example.com,629.293.9675,"71843 Mendoza Crest
+New Justinmouth, OR 08868",Staceyhaven,Montenegro,2024-03-02,yard,,-1.0,
+3c553d65-953a-4e1c-b0f1-77bc2a946183,76dd238b-4973-479c-a212-4147456acf7f,Lisa Wright,,,"46566 Samantha Trail Apt. 330
+Cindychester, HI 96619",Stokesfurt,El Salvador,2024-05-13,site,-1.0,-1.0,
+e323d934-f2d8-4b8a-a19c-fe59df731a20,d06435c9-6ec5-4d7c-874d-cac6ab42757c,Theresa Rodriguez,steven24@example.org,InvalidPhone,"283 Nicole Rapids
+Hortonshire, NC 17220",North Marie,Afghanistan,2024-02-23,weight,-1.0,148.82,
+4f06b3ca-7568-4847-b82a-a9ce5134894f,,Amanda Howard,,,"617 Rebecca Crossroad
+South Nicole, OK 59082",,Uruguay,InvalidDate,little,6.0,,
+c7b021a0-4f7d-4549-b03c-a312147fde95,InvalidID,Jamie Montgomery,samuelbishop@example.com,,"591 Kathryn Island
+Taylorburgh, HI 30117",South Kevin,Northern Mariana Islands,2024-09-12,drive,6.0,,
+50431101-0086-4e34-92ea-7bbe3941d284,e4207102-8164-47ec-8b1d-2a13e6a161d5,Charles Morrison,InvalidEmail,InvalidPhone,"79948 Ashley Road
+Christopherfort, FL 84618",,Sudan,2024-07-31,assume,-1.0,119.29,
+61abee70-3959-465e-b8b9-af102f7dfe48,e03fcdad-a2a8-445a-8784-b1db28a74bdc,James Hawkins,InvalidEmail,,"0830 Wolf Turnpike
+Dawntown, NJ 10970",Smithmouth,Kyrgyz Republic,2024-08-25,watch,-1.0,472.94,
+fba8eada-d4af-4fbf-b4ee-6f4b4e62f20c,7173b3b4-9703-4702-90b2-86ca69074c65,Paul Robinson,,809-706-1178,"082 Jackie Greens Apt. 739
+Lake Ashleytown, MA 06470",Lopezland,Singapore,2024-05-24,from,,,
+12d97683-aa21-42ed-93ee-05b1d90e2b8b,,Jared Smith,InvalidEmail,001-815-866-0480x2037,"088 Sampson Path
+New Elizabeth, ID 44460",Travistown,Armenia,2024-09-13,theory,-1.0,-1.0,
+5dda1488-d373-4739-b4cf-108a2c7f441c,678e5e9c-e8f7-4326-ae5f-39c7ac3c7c62,Nicole Garcia,xrusso@example.org,,"961 Joshua Crescent Suite 867
+Jenniferfort, CT 97415",Joseborough,Montenegro,2024-01-12,feel,,-1.0,
+def621fe-6f55-4fcb-8783-edab4181abd5,ee085300-154f-4287-bae9-e5df76306c23,Stephanie Jackson,InvalidEmail,,"43813 Neal Squares Suite 736
+Port Stevenville, MA 73991",Port Brianport,Malawi,2024-12-09,rather,3.0,251.52,754.5600000000001
+331add14-e60f-4efc-9c93-52749540a442,,Steven Joyce,,,"19143 James Harbor
+North Jennifer, MD 12897",,Micronesia,2024-01-26,sell,-1.0,218.94,
+40a090c6-29c1-4208-9d6c-ad1c2b707855,49de386d-30b1-4fe6-8b50-79e82934d5d8,Christopher Lane,thomaskristi@example.net,InvalidPhone,"98971 Christopher Spring Suite 599
+West Kelseyberg, ID 78801",,,2024-07-26,anything,2.0,,
+a78c7fba-a97d-4e6a-9e51-5ba82a81da0e,8601670c-6b87-45c6-a294-041315be0373,Joshua Lang,,,"Unit 0498 Box 7796
+DPO AP 24579",New Samantha,Bahamas,2024-12-03,quality,,158.76,
+fa7a9fb2-bcd9-47c0-88da-c254f8ac088e,,Lynn Bell,,InvalidPhone,"9757 Sherry Shores Suite 390
+Campbellmouth, MA 15913",South Maria,India,2024-03-06,let,10.0,,
+29b021b3-b289-493b-8416-1f4f4707796e,InvalidID,Christopher Johnson,,,"74141 Tammy Ports
+Obrienfurt, SD 75447",Reyesville,Portugal,2024-10-27,reflect,-1.0,-1.0,
+b481084c-1e0b-429f-b939-bb506c6d3ea0,InvalidID,Vincent Forbes,,+1-443-520-4223x3619,"3154 Ford Dam
+Port Brianfort, MP 53009",Danielburgh,India,2024-04-14,beautiful,-1.0,,
+4b4342d8-5daf-4e2e-86be-6fa92d2eb761,34bcf125-0d37-4a78-9b86-e8f3eeaade26,Seth Adams,InvalidEmail,,"PSC 6740, Box 4907
+APO AE 00556",Steelestad,Mauritius,2024-12-05,let,,,
+804d4734-703c-4689-8da3-f313dc16d166,2da5e066-66ee-41c8-8563-57f46b2f7571,,willisbarbara@example.com,,"019 Alison Heights
+Coxmouth, NM 48819",East Lisafurt,Vanuatu,InvalidDate,eat,6.0,80.82,484.91999999999996
+99fff810-c307-4adb-8707-c1bd5492d6c4,,Paul Hernandez,InvalidEmail,,"0828 Santana Parks
+Johnsonfort, MS 03007",New Ashleyton,New Caledonia,2024-06-26,describe,,,
+6808e1af-0d98-4ea0-b9c7-bf2f194efa19,InvalidID,Aaron Nolan,,4967898651,"PSC 9443, Box 6548
+APO AP 46098",Jameston,,2024-09-07,candidate,8.0,162.17,1297.36
+a00259f3-b465-46a6-87aa-1098c70dfeb4,,Robert Gomez,,,"878 Dominguez Extensions
+East Nicholas, MO 34887",Lake Leah,Portugal,2024-07-17,win,4.0,,
+fedcadbc-5063-4675-bd4e-a7ebd31dccaa,ce2075a3-23d0-4fed-a21a-8811dead1b03,Mrs. Linda Frank,,,"973 Dakota Courts
+Jacobsmouth, SC 86768",Huffville,Turks and Caicos Islands,InvalidDate,ten,8.0,-1.0,
+de5ae942-72d7-4a6d-ac0d-afc3e1989885,InvalidID,Nicole Mitchell,InvalidEmail,,"USNS Barry
+FPO AP 70002",Robertsburgh,Heard Island and McDonald Islands,2024-10-24,suggest,8.0,322.69,2581.52
+4fe8dae0-0faa-415d-b0f9-bcc81288ccb1,3af2222f-c464-42ed-98ed-94cd25ef07cf,Erin White,,,"900 Hernandez Road Suite 815
+Dunlapberg, AL 99750",Conleymouth,,2024-02-03,laugh,6.0,87.23,523.38
+8f99d06c-509f-4f32-8bbb-96cc34f318ee,InvalidID,Michael Hernandez,ybrewer@example.net,,"93061 Lindsey Course
+Jordanborough, NM 02394",Valentineshire,Samoa,2024-08-01,section,-1.0,219.6,
+04a65c5b-a5b2-4fbb-8d29-29581d7485c1,,Miss Allison Myers,,InvalidPhone,,Cynthiatown,Gambia,2024-01-15,decision,1.0,,
+f04668b2-4611-4c9a-980e-26a60cd5c6f9,d2c89f93-45bc-4e27-ad4d-64076f54555c,Kathleen Bradley,InvalidEmail,InvalidPhone,"87983 Bryant Plains
+East Alexander, CA 01899",Markton,Gambia,2024-11-04,far,9.0,-1.0,
+056ce309-ceda-48c5-9c1f-8be679d8b929,,Michael Cooper,,InvalidPhone,"501 Warren Corners
+East Jonathan, SD 05042",Floresville,Saint Vincent and the Grenadines,2024-06-10,drug,,-1.0,
+f48e3089-2377-497d-92a2-9b888efc9d61,InvalidID,Leah Taylor,,,"Unit 4580 Box 6327
+DPO AE 98146",Lake Rachelhaven,Heard Island and McDonald Islands,2024-09-16,house,-1.0,48.23,
+b7df6126-0e02-4a43-a982-68af5929bedf,,Jacob Oconnor,pbradley@example.com,InvalidPhone,"95149 Mark Union
+West John, KS 40602",Rickyland,Russian Federation,2024-08-19,media,-1.0,-1.0,
+a3260bde-16f8-4f1b-88d0-eed9a710ba60,,,,InvalidPhone,"45378 Andrew Meadows Apt. 930
+Robertport, TN 30153",Robinport,,2024-09-23,arm,,-1.0,
+19850db7-e14c-4a27-b204-3226b41719a0,,Lynn Rodriguez,,,,South John,Mozambique,2024-12-08,environment,4.0,,
+b6bf6f33-1fa2-4799-957a-b27b97f3ff49,,Karen Singleton,osbornnicole@example.org,7205001802,"1861 Powers Plains Apt. 306
+West Amandastad, DE 82566",New Jefferyborough,Tonga,2024-11-17,table,,123.63,
+fde0de23-2b3a-42af-8920-8782ce4ec807,,Cassidy Price,,,,,Iraq,2024-10-21,effort,6.0,,
+7f464cef-d8af-4fc7-a46c-28b56e522c30,,Jermaine Rogers,,,,,Trinidad and Tobago,InvalidDate,become,,284.43,
+65e23745-376c-4740-9150-7133e5d92aac,InvalidID,Andrew Allen,richardlynch@example.net,,"837 Walsh Gateway
+Cummingshaven, NY 54169",Juanborough,Latvia,InvalidDate,under,-1.0,-1.0,
+5c93f7df-20b8-412d-a311-e602cd44d5d5,,Anthony Moore,InvalidEmail,,"45612 Bennett Gardens Apt. 865
+Alexanderville, KY 09543",,,2024-10-20,today,,-1.0,
+44949718-872e-4cfd-b540-2888cfb241b3,InvalidID,Nicholas Rodriguez,,,"91863 Gary Fall
+Karaland, LA 45158",Jessicatown,Germany,InvalidDate,series,,-1.0,
+2a4f6a27-6f2b-4adc-8edb-975adcea4f6a,,Rhonda Arnold,williamsjacob@example.net,,,Dillontown,,InvalidDate,writer,,87.0,
+0737f540-29cd-4bc5-abdb-e6e95f7a9faa,5529bec1-ed67-42ec-962b-6334a41f15b0,Kevin Jones,InvalidEmail,+1-933-838-0553x72853,"002 Michelle Oval Apt. 683
+South Angela, TN 60126",Lake Staceyside,,2024-09-15,week,-1.0,,
+c17ef047-3331-4c82-a0a2-5e31dda26d89,InvalidID,,InvalidEmail,,"61977 Leon Drives
+Romerofort, MO 62785",Marybury,Cocos (Keeling) Islands,2024-04-27,effort,8.0,-1.0,
+459d5d12-2ce5-4977-b61a-79e435560ce0,2fe39e7d-96d2-4d00-8f06-15eb5e088a0b,Kevin Ingram,berryjennifer@example.com,InvalidPhone,"80200 Daniel Mountain Apt. 452
+West Benjaminville, NE 06340",South Kevin,Puerto Rico,InvalidDate,blood,,362.13,
+a9129c68-28c9-4350-aee6-a7041287a99a,6c8a29cd-18c8-4535-98e3-4fd3c4249035,Lee Santiago,thomasmurray@example.org,(804)491-9384x486,"29618 Johnny Divide
+Moorehaven, VT 94451",,Syrian Arab Republic,2024-09-23,alone,-1.0,314.54,
+805dfa54-addc-4bb3-ab92-3ff478867704,InvalidID,Paul Estrada,InvalidEmail,(309)931-1364,"474 Terry Stream Suite 008
+Melissafurt, IL 34452",South Jake,Guinea-Bissau,2024-01-31,decision,-1.0,,
+728b12a5-d678-4808-8e49-97095dbd3703,,Jennifer Hopkins,InvalidEmail,,,Evanberg,Saint Vincent and the Grenadines,2024-04-23,exactly,-1.0,,
+b95240ac-30d1-4088-b005-71b443d43c95,,,yunicolas@example.net,InvalidPhone,"28432 Murray Glen Apt. 169
+North Lisa, SD 78592",Catherineview,Jamaica,InvalidDate,contain,-1.0,-1.0,

@@ -14,6 +14,8 @@ class Employee(Base):
     name: Mapped[str] = mapped_column(String(50))
     surname: Mapped[str] = mapped_column(String(50))
     position: Mapped[str] = mapped_column(String(50))
+    email: Mapped[str] = mapped_column(String(50))
+
 
 
 Base.metadata.create_all(engine)
@@ -26,11 +28,13 @@ def add_employee():
             name = input("Enter name: ")
             surname = input("Enter surname: ")
             position = input("Enter position: ")
+            email =input("Entel email: ")
 
-            employee = Employee(
+            employee = Employee (
                 name=name,
                 surname=surname,
-                position=position
+                position=position,
+                email=email
             )
 
             session.add(employee)
@@ -54,11 +58,11 @@ def view_employees():
             return
 
         print("\n------ EMPLOYEES ------")
-        print(f"{'ID':<5}{'NAME':<15}{'SURNAME':<15}{'POSITION'}")
+        print(f"{'ID':<5}{'NAME':<15}{'SURNAME':<15}{'POSITION'}{"email"}")
 
         for employee in employees:
             print(
-                f"{employee.id:<5}{employee.name:<15}{employee.surname:<15}{employee.position}"
+                f"{employee.id:<5}{employee.name:<15}{employee.surname:<15}{employee.position}{employee.email}"
             )
 
         print()
@@ -76,7 +80,7 @@ def delete_employee():
         print("\nEmployees:")
 
         for employee in employees:
-            print(f"{employee.id}. {employee.name} {employee.surname}")
+            print(f"{employee.id}. {employee.name} {employee.surname}{employee.email}")
 
         employee_id = int(input("\nEnter employee ID to delete: "))
 
@@ -111,7 +115,7 @@ def employee1():
             delete_employee()
 
         elif choice == "4":
-            print("Goodbye!")
+            print("exit")
             break
 
         else:
